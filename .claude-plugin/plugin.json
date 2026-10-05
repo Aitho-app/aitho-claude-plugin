@@ -1,0 +1,11 @@
+{
+  "name": "aitho",
+  "displayName": "Aitho",
+  "version": "1.0.0",
+  "description": "Rehearse and deliver presentations with your own slides: Claude turns your deck into a talk with a speaker script that follows your voice, helps you practise the questions you'll be asked, and drives your slides while you present.",
+  "author": { "name": "Aitho", "url": "https://aitho.app" },
+  "homepage": "https://aitho.app",
+  "repository": "https://github.com/Aitho-app/aitho-claude-plugin",
+  "license": "MIT",
+  "keywords": ["presentation", "rehearsal", "teleprompter", "speaker notes", "public speaking", "pitch", "slides", "Q&A practice"]
+}

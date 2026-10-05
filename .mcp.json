@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "aitho": {
+      "type": "http",
+      "url": "https://present.aitho.app/mcp"
+    }
+  }
+}
