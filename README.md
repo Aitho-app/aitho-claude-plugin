@@ -1,5 +1,7 @@
 # Aitho for Claude
 
+[![Aitho is a voice-activated live co-pilot that listens as you speak, advancing your slides and tracking your script in real time.](assets/banner.png)](https://aitho.app/present.html?ref=github&ch=aitho-claude-plugin)
+
 Rehearse and deliver presentations with your own slides. This plugin connects Claude to [Aitho](https://aitho.app), a presentation rehearsal and delivery app, and teaches Claude when and how to use it.
 
 ## What it does
